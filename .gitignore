@@ -1,4 +1,4 @@
 # .gitignore 파일명
 /node_modules
 /.vscode
-/.dev260213
+/dev260213
