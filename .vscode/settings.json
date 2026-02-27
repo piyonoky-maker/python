@@ -2,7 +2,9 @@
   //vsCode 폰트 설정 바꿈
   //"editor.fontFamily": "'D2Coding'",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'DejaVu Sans Mono'",
+  "editor.fontFamily": "DejaVu Sans Mono",
+  //"editor.fontFamily": "Ubuntu-Mono",
+  //"editor.fontFamily": "Malgun Gothic",
   //"editor.fontFamily": "JetBrains Mono",
   //"editor.fontFamily": "나눔스퀘어라운드 굵게",
   
